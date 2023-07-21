@@ -19,3 +19,4 @@ URL: https://github.com/yihui/rmini
 BugReports: https://github.com/yihui/rmini/issues
 VignetteBuilder: knitr
 RoxygenNote: 7.1.1
+Remotes: git::https://github.com/idavydov/r1.git, git::https://github.com/idavydov/r2.git
